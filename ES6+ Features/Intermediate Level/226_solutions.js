@@ -6,7 +6,6 @@ class VoterUser {
         this.username = username;
         this.age = age;
     }
-
     get age() {
         this.age
     }
